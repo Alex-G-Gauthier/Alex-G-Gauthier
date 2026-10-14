@@ -8,7 +8,7 @@ Physics undergraduate (Mathematics minor) at **California State University, San 
 - 💡 **Senior thesis:** photon-pair generation by spontaneous parametric down-conversion (SPDC) in
   Mg:LiNbO₃ and PPLN, building toward coincidence counting and g⁽²⁾(0) measurements
 - 🐍 **Code:** Python for simulation and instrument data analysis (NumPy, SciPy, pandas, Matplotlib,
-  scikit-learn), LabVIEW for data acquisition, LaTeX for everything I write
+  scikit-learn), SQL (DuckDB), LabVIEW for data acquisition, LaTeX for everything I write
 - 🎤 8 conference presentations, including the APS Global Physics Summit 2026
 
 ### Featured projects
@@ -18,6 +18,7 @@ Physics undergraduate (Mathematics minor) at **California State University, San 
 | [**tdse-leapfrog**](https://github.com/Alex-G-Gauthier/tdse-leapfrog) | Tested Python package for 1D quantum wave-packet dynamics: four solvers, analytic validation, 27 automated tests. 1st place, most challenging project, Computational Physics class competition. |
 | [**laser-characterization**](https://github.com/Alex-G-Gauthier/laser-characterization) | Beam-profile, timing, spectral and power analysis of the 532 nm and 1064 nm lasers in my lab's pump–probe setup. |
 | [**pitch-physics**](https://github.com/Alex-G-Gauthier/pitch-physics) | Drag, Magnus lift and spin efficiency from 114,000 MLB Statcast pitches, validated by simulation and Coors Field's thin air; whiff model with AUC 0.77 on unseen pitchers. |
+| [**stat-stabilization**](https://github.com/Alex-G-Gauthier/stat-stabilization) | How much should a team trust April? SQL pipeline over 2.1 million Statcast pitches measuring how fast 10 batter and pitcher stats stabilize (two independent methods, bootstrap CIs); empirical-Bayes shrinkage cut early-season prediction error 28–51%. |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alex-G-Gauthier/tdse-leapfrog/main/figures/02_tunnelling.gif" width="60%" alt="Wave packet tunnelling through a barrier">
