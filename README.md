@@ -10,9 +10,9 @@ Physics undergraduate with a minor in mathematics at **California State Universi
 - 🐍 **Code:** Python for physical simulations and instrument data analysis (NumPy, SciPy, pandas, Matplotlib), LabVIEW for data acquisition & control, LaTeX for writings
 - 🎤 9 conference presentations, including the APS Global Physics Summit 2026
 
-### Featured projects
+### Featured Projects
 
-| Project | What it is |
+| Project | Description |
 |---|---|
 | [**Time-Dependent Schrödinger Equation**](https://github.com/Alex-G-Gauthier/tdse-leapfrog) | Numerical Analysis of 1D Quantum Dynamics: Four tested solvers, analytic validations by human intereptations, 3 experiments. 1st place, hardest project, 2nd place, best presentation, Computational Physics class competition. |
 | [**Laser Characterizations**](https://github.com/Alex-G-Gauthier/laser-characterization) | Spatial, spectral, temporal, and power/energy analysis of the 532 nm continouswave pump and 1064 nm pulsed probe lasers for pump-probe spectroscopy experiments. |
